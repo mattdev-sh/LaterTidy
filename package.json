@@ -1,0 +1,44 @@
+{
+  "name": "latertidy",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A manager for the YouTube Watch Later playlist. For YouTube, not affiliated.",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "build": "node build.mjs",
+    "watch": "node build.mjs --watch",
+    "zip": "npm run build && node scripts/zip.mjs",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "test:e2e": "npm run build && playwright test",
+    "shots": "npm run build && LB_SHOTS=1 playwright test e2e/screenshots.spec.ts"
+  },
+  "dependencies": {
+    "preact": "^11.1.1"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.64.1",
+    "@types/chrome": "^0.3.7",
+    "@types/node": "^20.19.43",
+    "esbuild": "^0.28.2",
+    "fflate": "^0.8.3",
+    "typescript": "^7.0.2",
+    "vitest": "^4.1.12"
+  },
+  "author": {
+    "name": "Matteo Mangia",
+    "url": "https://github.com/mattdev-sh"
+  },
+  "license": "SEE LICENSE IN LICENSE",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattdev-sh/LaterTidy.git"
+  },
+  "homepage": "https://github.com/mattdev-sh/LaterTidy#readme",
+  "bugs": {
+    "url": "https://github.com/mattdev-sh/LaterTidy/issues"
+  }
+}

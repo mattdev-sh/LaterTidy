@@ -1,0 +1,5 @@
+{
+  "extName": { "message": "LaterTidy: Watch Later manager" },
+  "extDescription": { "message": "Search, filter, sort and bulk-remove your Watch Later videos, with local categories and notes. For YouTube. Not affiliated." },
+  "commandToggle": { "message": "Open or close LaterTidy" }
+}

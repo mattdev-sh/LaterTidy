@@ -1,0 +1,5 @@
+{
+  "extName": { "message": "LaterTidy: gestore di Guarda più tardi" },
+  "extDescription": { "message": "Cerca, filtra, ordina e rimuovi in blocco i video di Guarda più tardi, con categorie e note locali. Per YouTube. Non affiliato." },
+  "commandToggle": { "message": "Apri o chiudi LaterTidy" }
+}

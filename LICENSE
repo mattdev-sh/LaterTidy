@@ -1,0 +1,62 @@
+LaterTidy Source Available License 1.0
+
+Copyright (c) 2026 Matteo Mangia
+https://github.com/mattdev-sh
+
+1. Scope
+
+This license applies to the original LaterTidy code, documentation and assets
+(the "Software"). Third-party components remain governed by their own licenses.
+
+2. Permissions
+
+Subject to the conditions below, you may use, copy, study, fork, modify, build
+and redistribute the Software and modified versions, in source or compiled
+form, free of charge. Personal use and internal use within businesses and
+other organizations are permitted, including internal modifications.
+
+3. Conditions for redistribution
+
+You must preserve this license and the copyright and attribution notices in
+all copies or substantial portions of the Software. Modified versions must
+clearly identify their changes and must not imply endorsement by the original
+author. The Software and modifications to it must be redistributed under this
+same license, without additional restrictions on the permissions granted here.
+
+4. Commercial distribution and monetization
+
+Without separate prior written permission from Matteo Mangia, you may not:
+
+- Sell, rent, sublicense for a fee, or charge for access to the Software or
+  modified versions, whether in source, compiled or hosted form.
+- Distribute the Software or modified versions as part of a paid product,
+  subscription, bundle or service that provides its functionality to others.
+- Monetize the Software or modified versions through in-product advertising,
+  affiliate commissions, paid features, or required donations or purchases.
+
+Ordinary internal business use is not commercial distribution. General hosting
+of free repositories by platforms such as GitHub is permitted. Truly voluntary
+donations that do not unlock access, features or other benefits are permitted.
+
+5. Contributions
+
+Unless explicitly agreed otherwise in writing before acceptance, contributions
+intentionally submitted for inclusion in LaterTidy are offered under this same
+license. Contributors retain copyright in their contributions. This clause
+does not assign copyright or grant the maintainer a separate right to relicense
+others' contributions.
+
+6. Other rights
+
+No trademark rights or rights to claim official status are granted. Rights not
+expressly granted by this license are reserved. To request commercial terms,
+contact Matteo Mangia through https://github.com/mattdev-sh.
+
+7. Disclaimer
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. TO THE MAXIMUM EXTENT
+PERMITTED BY APPLICABLE LAW, THE AUTHORS AND COPYRIGHT HOLDERS SHALL NOT BE
+LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR ITS USE.
